@@ -221,7 +221,7 @@ void vertex_parser(char *str) {
 }
 
 /*
- *  Calcualtes and stores the bounds
+ *  Calculates and stores the bounds
  *  for the object
  */
 void find_bounds(node_t *node){
